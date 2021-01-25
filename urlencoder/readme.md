@@ -6,4 +6,4 @@ Example:
 
 %22%3E%3Cscript%3Ealert%280%29%3C%2Fscript%3E
 
-Just a bit of a time saver... ¯\_(ツ)_/¯
+Just a bit of a time saver... ¯\\_(ツ)_/¯
